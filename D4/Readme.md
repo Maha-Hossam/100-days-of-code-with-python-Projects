@@ -1,22 +1,23 @@
-# Rock Paper Scissors Game 🎮
+# Day 4: Rock Paper Scissors ✊📄✂️
 
-A simple Rock Paper Scissors game built with Python.
+## Project Overview
 
-##  About the Project
+A command-line Rock Paper Scissors game where the player competes against the computer. The computer randomly selects an option, and the program determines the winner.
 
-This is a command-line game where the user plays Rock Paper Scissors against the computer. The user selects Rock, Paper, or Scissors, and the computer randomly chooses its move. The program then determines whether the result is a win, loss, or draw.
+## Concepts Learned
 
-##  Concepts Used
-
-- Variables
 - Lists and indexing
-- Conditional statements (`if`, `elif`, `else`)
-- User input (`input()`)
+- Conditional statements: `if` and `else`
+- Logical operators: `or`
 - Random number generation using the `random` module
 - Basic input validation
 
-## 🎯 Goal of this Project
+## What I Practiced
 
-Through this project, I practiced using lists and indexing to display choices, conditional statements to determine the game result, and the `random` module to simulate the computer's choice.
+Using lists to store and display choices, generating random computer moves, and implementing game rules using conditional logic.
 
-*This project is part of my journey in learning Python programming.*
+## Reflection
+
+This project helped me practice combining lists, random selection, and conditional statements to build an interactive game while reducing repetitive code.
+
+**Challenge progress: Day 4/100** ✅
